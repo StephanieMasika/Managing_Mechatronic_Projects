@@ -5,7 +5,7 @@ Design a better LPG Leakage Detector
 Come up with a problem definition, entailing a problem statement and project criteria.
 Outline the Project Life Cycle and Project Management Process. And come up with a Trello Board and Gantt Chart in Excel for the team.
 
-## Technologie
+## Technologies
 - Excel
 - Git, GitHub
 - Trello
